@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "postcss": "8.5.28",
+    "qs": "6.16.0",
+    "svgo": "2.8.4"
   }
 }
